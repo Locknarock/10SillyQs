@@ -1,0 +1,83 @@
+{
+  "quiz": [
+    {
+      "question": "How many letters 's' are in the word 'silly'?",
+      "options": ["1", "2", "3", "4"],
+      "correctOption": 0,
+      "points": "100",
+      "answerType": "singleAnswer"
+    },
+    {
+      "question": "Can you jump higher than a house?",
+      "options": [
+        "Yes since houses can't jump",
+        "No I have seen some weird houses",
+        "No, I cannot jump",
+        "Depends on the house"
+      ],
+      "correctOption": [0, 1, 2, 3],
+      "points": "100",
+      "answerType": "allCorrect"
+    },
+    {
+      "question": "Can you lift Thor's hammer?",
+      "options": [
+        "Yes I'm worthy",
+        "No, I'm not worthy",
+        "Whos Thor?",
+        "What's a hammer?"
+      ],
+      "correctOption": [0, 1, 2, 3],
+      "points": "100",
+      "answerType": "allCorrect"
+    },
+
+    {
+      "question": "Witch word in this sentence is the middle word?",
+      "correctOption": "sentence",
+      "points": "100",
+      "answerType": "inputAnswer"
+    },
+
+    {
+      "question": "Do you like apples ?",
+      "correctOption": ["yes", "no"],
+      "points": "100",
+      "answerType": "inputAnswer"
+    },
+    {
+      "question": "If Marys mom has 5 kids and their names are North, West, East, Bill then whats Marys dads name?",
+      "options": ["Joe", "Is it that Thor?", "How can I know", "Tom"],
+      "correctOption": 2,
+      "points": "100",
+      "answerType": "singleAnswer"
+    },
+    {
+      "question": "Witch of these are colours ?",
+      "options": ["Red", "Green", "Yellow", "Table"],
+      "correctOption": [0, 1, 2],
+      "points": "100",
+      "answerType": "multipleAnswer"
+    },
+    {
+      "question": "What year is it ?",
+      "correctOption": "CURRENT_YEAR",
+      "points": "100",
+      "answerType": "inputAnswer"
+    },
+    {
+      "question": "Is this questionaire silly? Pick two awnsers",
+      "options": ["Yes", "No", "Cat", "Maybe"],
+      "correctOption": [0, 3],
+      "points": "100",
+      "answerType": "multipleAnswer"
+    },
+    {
+      "question": "Is this the last question?",
+      "options": ["No", "Yes", "I haven't counted", "Cat 2.0"],
+      "correctOption": 1,
+      "points": "100",
+      "answerType": "singleAnswer"
+    }
+  ]
+}
